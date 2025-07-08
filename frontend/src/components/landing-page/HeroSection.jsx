@@ -1,5 +1,5 @@
 import React from 'react';
-// import './HeroSection.css';
+import '../../assets/css/LandingPage/heroSection.css';
 import heroImage from '../../assets/react.svg';
 
 function HeroSection() {

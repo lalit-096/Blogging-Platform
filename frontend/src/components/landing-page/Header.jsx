@@ -1,6 +1,7 @@
 import React from 'react';
 // import './Header.css';
 import logo from '../../assets/react.svg';
+import '../../assets/css/LandingPage/header.css'
 
 function Header() {
     return (
@@ -23,7 +24,7 @@ function Header() {
             <div className="contact-info">
                 <a href="tel:+1234567890" className="phone">+123 456 7890</a>
                 <a href="mailto:info@blogplatform.com" className="email">info@blogplatform.com</a>
-                <button className="contact-button">Contact Us</button>
+                <button className="contact-button">Become a reader</button>
             </div>
         </header>
     );

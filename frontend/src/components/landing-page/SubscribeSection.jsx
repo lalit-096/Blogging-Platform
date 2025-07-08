@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import './SubscribeSection.css';
+import '../../assets/css/LandingPage/subscribeSection.css';
 
 function SubscribeSection() {
     const [email, setEmail] = useState('');

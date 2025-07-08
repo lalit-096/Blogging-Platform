@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-// import './SliderSection.css';
+import '../../assets/css/LandingPage/sliderSection.css';
 
 function SliderSection() {
     const [currentSlide, setCurrentSlide] = useState(0);
@@ -13,12 +13,12 @@ function SliderSection() {
         {
             headline: "Grow Your Audience",
             description: "Connect with millions of readers worldwide. Our SEO-optimized platform helps your content reach the right audience.",
-            btnText: "Join Now"
+            btnText: "Start Now"
         },
         {
             headline: "Monetize Your Content",
             description: "Turn your passion into profit with our diverse monetization options including subscriptions, affiliate marketing, and more.",
-            btnText: "Join Now"
+            btnText: "Start Earning"
         }
     ];
 

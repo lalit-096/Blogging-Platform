@@ -1,5 +1,5 @@
 import React from 'react';
-// import './LocationsSection.css';
+import '../../assets/css/LandingPage/locationSection.css'
 import worldMap from '../../assets/react.svg';
 
 function LocationsSection() {

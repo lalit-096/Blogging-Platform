@@ -1,5 +1,6 @@
 import React from 'react';
 // import './TestimonialsSection.css';
+import '../../assets/css/LandingPage/testimonialSection.css'
 import avatar1 from '../../assets/react.svg';
 import avatar2 from '../../assets/react.svg';
 import avatar3 from '../../assets/react.svg';

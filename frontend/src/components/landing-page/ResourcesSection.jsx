@@ -3,6 +3,7 @@ import React from 'react';
 import resourceImage1 from '../../assets/react.svg';
 import resourceImage2 from '../../assets/react.svg';
 import resourceImage3 from '../../assets/react.svg';
+import '../../assets/css/LandingPage/resourceSection.css'
 
 function ResourcesSection() {
     const resources = [

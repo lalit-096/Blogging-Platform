@@ -4,6 +4,7 @@ import featureIcon1 from '../../assets/react.svg';
 import featureIcon2 from '../../assets/react.svg';
 import featureIcon3 from '../../assets/react.svg';
 import featureIcon4 from '../../assets/react.svg';
+import '../../assets/css/LandingPage/featureSection.css'
 
 function FeaturesSection() {
     const features = [
